@@ -1,6 +1,5 @@
 # filterborder
 filterborder
-# nppfilter
 
 ## Description
 
